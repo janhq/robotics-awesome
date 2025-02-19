@@ -2,7 +2,7 @@
 A curated list of awesome links and software libraries that are useful for robotics development.
 
 ## Favorites
-- [Jan-robotics-models](https://github.com/janhq/robotics-models): Convert URDF, MJCF into the json with md format for easy joint indexing and import.
+- [Jan-robotics-models](https://github.com/janhq/robotics-models): Convert URDF, MJCF into the Mardown file and a JSON file format for extracting basic information and mapping of robot to help developer easily import and config the robot model in their simulation.
 
 ## Robot Teleoperation
 - [Open-TeleVision](https://robot-tv.github.io/): Teleoperation with Immersive Active Visual Feedback. Open-sourced immersive teleoperation system with stereo visual feedback
