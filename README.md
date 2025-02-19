@@ -2,7 +2,7 @@
 A curated list of awesome links and software libraries that are useful for robotics development.
 
 ## Favorites
-- [Jan-robotics-models](https://github.com/janhq/robotics-models): common robot models used in robotic research and development
+- [Jan-robotics-models](https://github.com/janhq/robotics-models): Convert URDF, MJCF into the json with md format for easy joint indexing and import.
 
 ## Robot Teleoperation
 - [Open-TeleVision](https://robot-tv.github.io/): Teleoperation with Immersive Active Visual Feedback. Open-sourced immersive teleoperation system with stereo visual feedback
