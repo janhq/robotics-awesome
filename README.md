@@ -1,7 +1,7 @@
 # robotics-awesome
 A curated list of awesome links and software libraries that are useful for robotics development.
 
-## Favorites
+## Favorites ⭐
 - [Jan-robotics-models](https://github.com/janhq/robotics-models): Convert URDF, MJCF into the Mardown file and a JSON file format for extracting basic information and mapping of robot to help developer easily import and config the robot model in their simulation.
 
 ## Robot Teleoperation
