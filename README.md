@@ -15,3 +15,6 @@ A curated list of awesome links and software libraries that are useful for robot
 ## Simulator
 - [Genesis](https://genesis-embodied-ai.github.io/): A Generative and Universal Physics Engine for Robotics and Beyond
 
+## Text to motion
+- [Learning from Massive Human Videos for Universal Humanoid Pose Control](https://usc-gvl.github.io/UH-1/)
+
